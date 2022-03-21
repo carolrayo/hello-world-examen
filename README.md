@@ -16,23 +16,23 @@
 
 ## Haciendo nuestro primer commit
 
-#### En la rama que acabamos de crear, hacemos click en el archivo *README.md*
-#### Hacemos click en el botón de editar archivo
+- En la rama que acabamos de crear, hacemos click en el archivo *README.md*
+- Hacemos click en el botón de editar archivo
 
 ![imagen](https://user-images.githubusercontent.com/91874629/159226979-ad635e4b-ce6e-47a3-bd8d-bdecf1c47981.png)
 
 
-#### En el editor hacemos los cambios que queremos utilizando diversos elementos de markdown.
+- En el editor hacemos los cambios que queremos utilizando diversos elementos de markdown.
 
 ![imagen](https://user-images.githubusercontent.com/91874629/159227108-2b9284d6-deef-4510-8a26-b6a71e2621b0.png)
 
 
-#### En la caja de commits, escribimos un mensaje que describe nuestros cambios.
+- En la caja de commits, escribimos un mensaje que describe nuestros cambios.
 
 ![imagen](https://user-images.githubusercontent.com/91874629/159227205-321fddbe-b83e-4e4c-8a94-eae3cb19d96c.png)
 
 
-#### Finalizando este paso haciendo click en commit changes.
+- Finalizando este paso haciendo click en commit changes.
 ![imagen](https://user-images.githubusercontent.com/91874629/159227287-f0dd3e2b-6919-4e78-b437-707a53696ef3.png)
 
 
